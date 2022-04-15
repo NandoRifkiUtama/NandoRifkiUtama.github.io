@@ -1,0 +1,43 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.parallax-container {
+    height: 20%;
+}
+
+.education img {
+    max-width: 100px; 
+}
+
+.programmer img {
+    max-width: 200px;
+}
+
+.css img {
+    max-width: 100px;
+}
+.js img {
+    max-width: 100px;
+}
+.html img {
+    max-width: 170px;
+}
+.mysql img {
+    max-width: 150px;
+}
+.python img {
+    max-width: 190px;
+}
+.ps img {
+    max-width: 100px;
+}
+#skill {
+    padding: 20px 0;
+}
+#contact {
+    padding: 5px 0;
+}
+footer {
+    padding: 2px 0;
+}
